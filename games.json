@@ -1,0 +1,82 @@
+[
+    {
+        "name" : "Friday The 13th",
+        "price" : "50.25",
+        "imgSrc" : "images/game 1.png"
+    },
+    {
+        "name" : "Fifa 2021",
+        "price" : "80.00",
+        "imgSrc" : "images/game 2.png"
+    },
+    {
+        "name" : "Minecraft",
+        "price" : "15.00",
+        "imgSrc" : "images/game 3.png"
+    },
+    {
+        "name" : "A way out",
+        "price" : "23.75",
+        "imgSrc" : "images/game 4.png"
+    },
+    {
+        "name" : "GTA V",
+        "price" : "50.00",
+        "imgSrc" : "images/game 5.png"
+    },
+    {
+        "name" : "Spiderman(Miles Morales)",
+        "price" : "20.50",
+        "imgSrc" : "images/game 6.png"
+    },
+    {
+        "name" : "Spiderman",
+        "price" : "25.50",
+        "imgSrc" : "images/game 7.png"
+    },
+    {
+        "name" : "Sonic Mania",
+        "price" : "25.00",
+        "imgSrc" : "images/game 8.png"
+    },
+    {
+        "name" : "Uncharted",
+        "price" : "49.00",
+        "imgSrc" : "images/game 9.png"
+    },
+    {
+        "name" : "NBA 2k20",
+        "price" : "60.99",
+        "imgSrc" : "images/game 10.png"
+    },
+    {
+        "name" : "PES 2020",
+        "price" : "39.20",
+        "imgSrc" : "images/game 11.png"
+    },
+    {
+        "name" : "Naruto",
+        "price" : "24.99",
+        "imgSrc" : "images/game 12.png"
+    },
+    {
+        "name" : "CRASH Bandicot 4",
+        "price" : "30.25",
+        "imgSrc" : "images/game 13.png"
+    },
+    {
+        "name" : "Fortnite",
+        "price" : "49.99",
+        "imgSrc" : "images/game 14.png"
+    },
+    {
+        "name" : "UFC",
+        "price" : "25.80",
+        "imgSrc" : "images/game 15.png"
+    },
+    {
+        "name" : "Concrete Genie",
+        "price" : "59.00",
+        "imgSrc" : "images/game 16.png"
+    }
+]
